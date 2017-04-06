@@ -3,3 +3,6 @@ In our work, we open want to delete some liferay portal bundle folder, but after
 
 ## For developer
 Use mvn clean package to get the jar and then use Jar2Exe to convert the jar file to exe file.
+
+## What we can do later
+For using convenience, we can make some windows installer and add such function to windows context menu, user should just right click some folder and say "fast-delete" to call such function.
